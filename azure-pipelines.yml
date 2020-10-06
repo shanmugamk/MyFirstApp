@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo My Sample pipeline
+    echo My Sample pipeline from local machine
   displayName: 'Run a multi-line script'
